@@ -51,7 +51,7 @@ dt.predict([[5,6]])
 ## Data head:
 ![pic 1](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/Data%20head.png)
 ## Data info:
-![pic 2]()
+![pic 2](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/Data%20information.png)
 ## Data isnull:
 ![pic 3]()
 ## Data Head after applying LabelEncoder():
