@@ -59,7 +59,7 @@ dt.predict([[5,6]])
 ## MSE:
 ![pi 5](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/mse.png)
 ## r2:
-![pic 6]()
+![pic 6](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/r.png)
 ## Data Prediction:
 ![pic 7]()
 
